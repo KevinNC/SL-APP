@@ -1,0 +1,122 @@
+[
+  {
+    "id": "vacaciones-10-anos",
+    "text": "Tu empresa te ofrece planear tus vacaciones para los próximos 10 años.",
+    "options": {
+      "A": "Elegís trabajar 5 años seguidos y tener 5 meses de vacaciones.",
+      "B": "Elegís trabajar 10 años seguidos y tener 10 meses de vacaciones.",
+      "C": "Preferís trabajar durante 12 meses teniendo 30 días de vacaciones.",
+      "D": "Pedís 6 meses de trabajo y 15 días de vacaciones."
+    }
+  },
+  {
+    "id": "tesoro-tutankamon",
+    "text": "Durante unas vacaciones en Egipto, te encontrás parte del tesoro escondido de Tutankamón.",
+    "options": {
+      "A": "Lo guardás en tu casa como una reliquia arqueológica.",
+      "B": "Lo donás al gobierno para que sea expuesto en el museo.",
+      "C": "Lo vendés a un coleccionista privado para obtener dinero.",
+      "D": "Pensás en los arqueólogos que mueren envenenados y no tocás nada."
+    }
+  },
+  {
+    "id": "ex-empleado-quiebra",
+    "text": "Un ex empleado tuyo que despediste por ser ineficiente quiere comprar tu empresa familiar, que está al borde de la quiebra.",
+    "options": {
+      "A": "Se lo vendés con mucha rabia. ¿De dónde sacó todo ese dinero?",
+      "B": "Esperás a vendérsela a otro comprador, no te importa si recibís menos dinero.",
+      "C": "Jamás le venderías la empresa a él.",
+      "D": "Le pedís el doble de lo que te ofrece."
+    }
+  },
+  {
+    "id": "ladron-en-casa",
+    "text": "Entrás a tu casa y te encontrás cara a cara con un ladrón que te está robando.",
+    "options": {
+      "A": "Te asustás y huís corriendo.",
+      "B": "Lo atacás con lo que puedas. ¡Son tus cosas las que está robando!",
+      "C": "Lo amenazás con llamar a la policía.",
+      "D": "Si tenés un arma, la usás."
+    }
+  },
+  {
+    "id": "billetera-perdida",
+    "text": "En la calle encontrás una billetera con documentos y una suma grande de dinero.",
+    "options": {
+      "A": "La llevás a la policía tal como está.",
+      "B": "Sacás el dinero y devolvés solo los documentos.",
+      "C": "Buscás al dueño por redes y se la devolvés en persona.",
+      "D": "La dejás donde estaba: no es problema tuyo."
+    }
+  },
+  {
+    "id": "mentir-juicio",
+    "text": "Tu mejor amigo te pide que mientas en un juicio para evitarle una condena grave.",
+    "options": {
+      "A": "Mentís sin dudar: es tu mejor amigo.",
+      "B": "Decís la verdad, aunque lo perjudique.",
+      "C": "Te negás a declarar y te alejás del tema.",
+      "D": "Mentís, pero le cobrás un favor enorme a cambio."
+    }
+  },
+  {
+    "id": "trabajo-otro-pais",
+    "text": "Te ofrecen el trabajo soñado, con el doble de sueldo, pero tenés que mudarte a otro país en 15 días.",
+    "options": {
+      "A": "Aceptás y te vas, aunque dejes gente atrás.",
+      "B": "Rechazás: tu vida actual vale más que el puesto.",
+      "C": "Pedís tiempo y negociás una fecha más larga.",
+      "D": "Aceptás solo si tu pareja o familia puede ir con vos."
+    }
+  },
+  {
+    "id": "sobre-desconocido",
+    "text": "Un desconocido en el aeropuerto te pide que pases un sobre por el control y se lo des del otro lado.",
+    "options": {
+      "A": "Lo hacés: parece apurado y no querés un conflicto.",
+      "B": "Lo rechazás y te vas.",
+      "C": "Avisás a seguridad.",
+      "D": "Abrís el sobre antes de decidir."
+    }
+  },
+  {
+    "id": "jefe-evade",
+    "text": "Descubrís que tu jefe evade impuestos y te pide que firmes un balance falso.",
+    "options": {
+      "A": "Firmás para no perder el trabajo.",
+      "B": "Te negás y buscás otro empleo en silencio.",
+      "C": "Denunciás de forma anónima.",
+      "D": "Pedís un aumento a cambio de callarte."
+    }
+  },
+  {
+    "id": "secreto-familiar",
+    "text": "Encontrás pruebas de que un familiar cercano te mintió durante años sobre algo importante.",
+    "options": {
+      "A": "Lo enfrentás esa misma noche.",
+      "B": "Guardás silencio: no vale romper la familia.",
+      "C": "Se lo contás a otra persona de confianza primero.",
+      "D": "Cortás el vínculo sin dar explicaciones."
+    }
+  },
+  {
+    "id": "premio-compartir",
+    "text": "Ganás un premio grande con un boleto que te compró un compañero de trabajo “de favor”.",
+    "options": {
+      "A": "Te quedás con todo: el boleto está a tu nombre.",
+      "B": "Lo dividís en partes iguales.",
+      "C": "Le das una parte chica como agradecimiento.",
+      "D": "Le preguntás cuánto quiere y negociás."
+    }
+  },
+  {
+    "id": "mensaje-equivocado",
+    "text": "Te llega un mensaje íntimo de tu pareja, claramente destinado a otra persona.",
+    "options": {
+      "A": "Lo enfrentás en el acto con el chat abierto.",
+      "B": "Esperás y observás unos días antes de hablar.",
+      "C": "Lo ignorás y seguís como si nada.",
+      "D": "Respondes haciéndote pasar por la otra persona."
+    }
+  }
+]
