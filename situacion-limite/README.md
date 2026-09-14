@@ -46,9 +46,9 @@ Podés pegar objetos nuevos a mano o pedirlos a una IA con este mismo formato. E
 
 `vite.config.ts` usa `base: './'`, así el build funciona en la raíz del repo o en un subpath.
 
-1. Creá el repo y subí este proyecto.
-2. En el repo: **Settings → Pages → Source = GitHub Actions**.
-3. El workflow [`.github/workflows/deploy.yml`](.github/workflows/deploy.yml) publica `dist/` en cada push a `main`.
+1. En el repo: **Settings → Pages → Source = GitHub Actions**.
+2. El workflow en la raíz (`.github/workflows/deploy.yml`) publica `situacion-limite/dist/` en cada push a `main`.
+3. URL: https://kevinnc.github.io/CursorProyects/
 
 También podés arrastrar la carpeta `dist/` a Netlify o Cloudflare Pages.
 
